@@ -3,7 +3,9 @@ import { Target, Eye, CheckCircle } from "lucide-react";
 import { Lightbulb, Clock, Palette } from "lucide-react";
 
 export const metadata = {
-  title: "About | RS Digital Solutions",
+  title: "About RS Digital Solutions | Web Design Company in Kolathur Chennai",
+  description:
+    "Learn about RS Digital Solutions, a professional web development company in Kolathur, Chennai offering modern websites for small and medium businesses.",
 };
 
 export default function About() {

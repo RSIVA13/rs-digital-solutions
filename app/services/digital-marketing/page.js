@@ -10,9 +10,9 @@ import {
 } from "lucide-react";
 
 export const metadata = {
-  title: "Digital Marketing Services | RS Digital Solutions",
+  title: "Digital Marketing Services in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "Professional Digital Marketing Services in Chennai to grow brand visibility, leads, and ROI.",
+    "Professional Digital Marketing Services in Kolathur, Chennai to grow brand visibility, leads, and ROI.",
 };
 
 export default function DigitalMarketing() {

@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 
 export const metadata = {
-  title: "SEO Services | RS Digital Solutions",
+  title: "SEO Services in Kolathur, Chennai | RS Digital Solutions",
   description:
     "Professional SEO Services in Chennai to improve Google rankings, organic traffic, and conversions.",
 };

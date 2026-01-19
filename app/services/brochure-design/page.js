@@ -1,10 +1,11 @@
 import InnerHero from "@/components/InnerHero";
 
 export const metadata = {
-  title: "Brochure Design Services | RS Digital Solutions",
+  title: "Brochure Design Services in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "Professional brochure design services that communicate your brand story with visually stunning layouts.",
+    "Professional brochure design services in Kolathur, Chennai by RS Digital Solutions. We create creative brochures for business branding and marketing.",
 };
+
 
 export default function BrochureDesign() {
   return (

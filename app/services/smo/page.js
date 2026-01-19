@@ -8,10 +8,11 @@ import {
 } from "lucide-react";
 
 export const metadata = {
-  title: "Social Media Optimization (SMO) Services | RS Digital Solutions",
+  title: "Social Media Optimization Services in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "Professional Social Media Optimization services to grow brand awareness, engagement, and followers across platforms.",
+    "Professional Social Media Optimization services in Kolathur, Chennai by RS Digital Solutions. Grow your brand awareness, engagement, and followers across social platforms.",
 };
+
 
 export default function SocialMediaOptimization() {
   return (

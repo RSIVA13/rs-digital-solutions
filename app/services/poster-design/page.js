@@ -1,10 +1,11 @@
 import InnerHero from "@/components/InnerHero";
 
 export const metadata = {
-  title: "Poster Designing Services | RS Digital Solutions",
+  title: "Poster Designing Services in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "Professional poster designing services to promote your brand, events, and campaigns with eye-catching visuals.",
+    "Professional poster designing services in Kolathur, Chennai by RS Digital Solutions. We create eye-catching posters for brands, events, and marketing campaigns.",
 };
+
 
 export default function PosterDesigning() {
   return (

@@ -1,10 +1,11 @@
 import InnerHero from "@/components/InnerHero";
 
 export const metadata = {
-  title: "Web Development Consultation | RS Digital Solutions",
+  title: "Web Development Consultation in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "Expert web development consultation to plan, optimize, and scale your digital product with the right technology and strategy.",
+    "Expert web development consultation in Kolathur, Chennai by RS Digital Solutions. Get professional guidance to plan, optimize, and scale your business website.",
 };
+
 
 export default function WebDevelopmentConsultation() {
   return (

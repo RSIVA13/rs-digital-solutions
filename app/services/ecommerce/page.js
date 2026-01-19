@@ -1,10 +1,11 @@
 import InnerHero from "@/components/InnerHero";
 
 export const metadata = {
-  title: "E-Commerce Web Design | RS Digital Solutions",
+  title: "E-Commerce Web Design in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "High-converting eCommerce website design and development services to sell more online with speed, security, and scalability.",
+    "High-converting eCommerce website design and development services in Kolathur, Chennai by RS Digital Solutions. Sell more online with speed, security, and scalability.",
 };
+
 
 export default function EcommerceWebDesign() {
   return (

@@ -5,8 +5,8 @@ import Footer from "@/components/Footer";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "RS Digital Solutions",
-  description: "Website Development Company",
+  title: "RS Digital Solutions in Kolathur Chennai | Web Design & Development Company",
+  description: "RS Digital Solutions in Kolathur, Chennai offers professional web design, web development and digital marketing services for small businesses.",
 };
 
 export default function RootLayout({

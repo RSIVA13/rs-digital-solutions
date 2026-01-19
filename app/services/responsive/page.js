@@ -1,10 +1,11 @@
 import InnerHero from "@/components/InnerHero";
 
 export const metadata = {
-  title: "Responsive Web Design | RS Digital Solutions",
+  title: "Responsive Web Design in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "High-end responsive web design services that deliver stunning experiences across all devices.",
+    "Professional responsive web design services in Kolathur, Chennai by RS Digital Solutions. We build fast, mobile-friendly, and SEO-optimized websites for all devices.",
 };
+
 
 export default function ResponsiveWebDesign() {
   return (

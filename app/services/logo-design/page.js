@@ -1,10 +1,11 @@
 import InnerHero from "@/components/InnerHero";
 
 export const metadata = {
-  title: "Logo Design Services | RS Digital Solutions",
+  title: "Logo Design Services in Kolathur, Chennai | RS Digital Solutions",
   description:
-    "Professional logo design services that build strong brand identity and create lasting impressions.",
+    "Professional logo design services in Kolathur, Chennai by RS Digital Solutions. We create unique logos that build strong brand identity and lasting impressions.",
 };
+
 
 export default function LogoDesign() {
   return (

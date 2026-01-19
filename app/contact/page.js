@@ -1,9 +1,9 @@
 import ContactClient from "./contactClient";
 
 export const metadata = {
-  title: "Contact Us | RS Digital Solutions",
+  title: "Contact RS Digital Solutions in Kolathur, Chennai | Web Development Company",
   description:
-    "Get in touch with RS Digital Solutions for web design, development, branding, and digital marketing services.",
+    "Contact RS Digital Solutions, a web development and digital marketing company in Kolathur, Chennai. Call or message us for website design, SEO, and business growth.",
 };
 
 export default function ContactPage() {
