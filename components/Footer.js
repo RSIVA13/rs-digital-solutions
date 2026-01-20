@@ -24,12 +24,13 @@ export default function Footer() {
             </h3>
 
             <div className="flex flex-wrap gap-3 text-sm opacity-90">
-              <span>Google</span>
-              <span>WordPress</span>
-              <span>AWS</span>
-              <span>MySQL</span>
-              <span>Google Cloud</span>
-              <span>Zoho</span>
+              <span>React js</span>
+              <span>Node js</span>
+              <span>Next js</span>
+              <span>Mongo DB</span>
+              <span>Vercel</span>
+              <span>Mysql</span>
+              <span>SEO</span>
             </div>
 
             {/* Social Icons */}
@@ -154,19 +155,20 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="bg-[#1f1f1f] text-gray-300 text-sm py-4 px-6">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between gap-3 text-center md:text-left">
-          <span>
-            © Copyright RS Digital Solutions Pvt Ltd. All Rights Reserved
-          </span>
+  <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between gap-3 text-center md:text-left">
+    <span>
+      © {new Date().getFullYear()} RS Digital Solutions. All Rights Reserved
+    </span>
 
-          <span>
-            Designed & Developed by{" "}
-            <span className="text-orange-500 font-semibold">
-              RS Digital Solutions
-            </span>
-          </span>
-        </div>
-      </div>
+    <span>
+      Designed & Developed by{" "}
+      <span className="text-orange-500 font-semibold">
+        RS Digital Solutions
+      </span>
+    </span>
+  </div>
+</div>
+
 
     </footer>
   );

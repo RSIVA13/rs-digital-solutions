@@ -73,17 +73,17 @@ export default function ContactClient() {
                 {
                   icon: <Phone />,
                   label: "Phone",
-                  value: "+91 98765 43210",
+                  value: "+91 78459 19183",
                 },
                 {
                   icon: <Mail />,
                   label: "Email",
-                  value: "info@rsdigitalsolutions.com",
+                  value: "rsdigital0413@gmail.com",
                 },
                 {
                   icon: <MapPin />,
                   label: "Location",
-                  value: "Chennai, Tamil Nadu",
+                  value: "No:75, Senthil Nagar, Kolathur, Chennai-99, Tamil Nadu",
                 },
               ].map((item, i) => (
                 <div
@@ -101,11 +101,8 @@ export default function ContactClient() {
               ))}
             </div>
 
-            <iframe
-              src="https://www.google.com/maps?q=Chennai&output=embed"
-              className="w-full h-[320px] rounded-3xl shadow-xl"
-              loading="lazy"
-            />
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.616373710944!2d80.20056627359192!3d13.123472011533403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5264623c7d2e67%3A0xe60f89f2e395b8fd!2s16th%20Cross%20St%2C%20Periyarnagar%2C%20Kolathur%2C%20Chennai%2C%20Tamil%20Nadu%20600099!5e0!3m2!1sen!2sin!4v1768889816076!5m2!1sen!2sin" className="w-full h-[320px] rounded-3xl shadow-xl"
+              loading="lazy" />
           </div>
 
           {/* RIGHT FORM */}
